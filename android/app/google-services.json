@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166009271914",
+    "project_id": "projectbima-b19f5",
+    "storage_bucket": "projectbima-b19f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166009271914:android:6287a0aa6bd945116afc13",
+        "android_client_info": {
+          "package_name": "com.example.uas_bima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166009271914-mcjpqml7e5e2lpu476i6m062eit6fj8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_bima",
+            "certificate_hash": "7eef26535d4b24e7f04347bfe5f743749c8531c7"
+          }
+        },
+        {
+          "client_id": "166009271914-6arvtairq8kh4oiiktfu7ntfrqjvc62b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlrlLb1R4MW9mchWh2Tv42_IuqcuUaeig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166009271914-6arvtairq8kh4oiiktfu7ntfrqjvc62b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
